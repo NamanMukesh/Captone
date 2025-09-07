@@ -6,7 +6,7 @@ Start the Express server:
 npx ts-node src/server.ts
 
 ```
-Start the Test Scheduler:
+Start the Test Scheduler in new Terminal:
 
 ```bash
 
